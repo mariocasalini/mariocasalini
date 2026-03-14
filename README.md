@@ -1,5 +1,9 @@
 <h1 align="center">Ciao sono Mario Casalini</h1>
-<h3 align="center">Sono uno studente della triennale in Informatica, con una forte passione per lo sviluppo software e l'innovazione tecnologica. Attualmente sto consolidando le mie basi teoriche e pratiche attraverso il percorso universitario, con l'obiettivo futuro di proseguire gli studi con una laurea magistrale in Ingegneria dell'Intelligenza Artificiale o Ingegneria Informatica.\n🎓 Cosa sto facendo Le mie giornate sono principalmente dedicate agli studi universitari. Ho da poco concluso un corso approfondito su Python e sto attivamente cercando di mettere in pratica quanto appreso attraverso esercizi e progetti mirati. 💻 Competenze e Tecnologie Nel mio percorso accademico e personale ho avuto modo di lavorare principalmente con linguaggi orientati agli oggetti e di sistema, oltre che con i database relazionali.</h3>
+<h3 align="center">Sono uno studente della triennale in Informatica, con una forte passione per lo sviluppo software e l'innovazione tecnologica. Attualmente sto consolidando le mie basi teoriche e pratiche attraverso il percorso universitario, con l'obiettivo futuro di proseguire gli studi con una laurea magistrale in Ingegneria dell'Intelligenza Artificiale o Ingegneria Informatica.
+  
+  🎓 Cosa sto facendo Le mie giornate sono principalmente dedicate agli studi universitari. Ho da poco concluso un corso approfondito su Python e sto attivamente cercando di mettere in pratica quanto appreso attraverso esercizi e progetti mirati.
+  
+  💻 Competenze e Tecnologie Nel mio percorso accademico e personale ho avuto modo di lavorare principalmente con linguaggi orientati agli oggetti e di sistema, oltre che con i database relazionali.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariocasalini" alt="mariocasalini" /></a> </p>
 
