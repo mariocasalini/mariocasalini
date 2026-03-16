@@ -10,7 +10,7 @@
 Sono uno studente della triennale in Informatica con una forte passione per la programmazione e l'innovazione tecnologica. Sto consolidando le mie basi teoriche e pratiche attraverso il percorso universitario, con l'obiettivo futuro di proseguire gli studi con una laurea magistrale in Ingegneria dell'Intelligenza Artificiale o Ingegneria Informatica.
 
 ### 🎓 Cosa sto facendo
-* **Studio:** Le mie giornate sono principalmente dedicate agli studi universitari.
+* **Studio:** Le mie giornate sono principalmente dedicate agli studi universitari, ma posso ritagliare tempo per richieste di progetti.
 * **Pratica:** Ho da poco concluso un corso approfondito su Python e sto attivamente mettendo in pratica quanto appreso attraverso esercizi e progetti mirati.
 * **🌱 Attualmente sto imparando:** Framework web come **Django** e database **NoSQL**.
 * **💻 Sto approfondendo le conoscenze di :** **Python** e database **C**.
