@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono Mario Casalini! 👋</h1>
+<h1 align="center">Ciao, sono Mario Casalini! </h1>
 
 <p align="center">
   <i>Studente di Informatica | Appassionato di Sviluppo Software e AI</i>
@@ -14,8 +14,6 @@ Sono uno studente della triennale in Informatica con una forte passione per la p
 * **Pratica:** Ho da poco concluso un corso approfondito su Python e sto attivamente mettendo in pratica quanto appreso attraverso esercizi e progetti mirati.
 * **🌱 Attualmente sto imparando:** Framework web come **Django** e database **NoSQL**.
 * **💻 Sto approfondendo le conoscenze di :** **Python** e database **C**.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariocasalini" alt="mariocasalini" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
