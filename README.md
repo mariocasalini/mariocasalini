@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, sono Mario Casalini</h1>
 
 <p align="center">
-  <strong>Studente di Informatica · Aspirante Software Engineer · Appassionato di Intelligenza Artificiale</strong>
+  <strong>Studente di Informatica · Aspirante AI Engineer · Appassionato di Intelligenza Artificiale</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Chi sono
 
-Sono uno studente del corso di laurea triennale in **Informatica**, interessato allo sviluppo software, all'intelligenza artificiale e alle tecnologie emergenti.
+Sono uno studente del corso di laurea triennale in **Informatica** presso l'università di Firenze, interessato allo sviluppo software, all'intelligenza artificiale e alle tecnologie emergenti.
 
 Durante il mio percorso universitario sto costruendo solide basi teoriche e pratiche, affiancando allo studio lo sviluppo di esercizi e progetti personali. Il mio obiettivo è proseguire la formazione con una laurea magistrale nell'ambito dell'**Intelligenza Artificiale** o dell'**Ingegneria Informatica**.
 
