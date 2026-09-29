@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, sono Mario Casalini</h1>
 
 <p align="center">
-  <strong>Studente di Informatica · Aspirante AI Engineer · Appassionato di Intelligenza Artificiale</strong>
+  <strong>Studente di Informatica · Appassionato di Intelligenza Artificiale</strong>
 </p>
 
 <p align="center">
